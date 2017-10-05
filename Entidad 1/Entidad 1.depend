@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1506641393 source:c:\users\alumno\desktop\parcial\entidad 1\entidad 1.c
+	<stdio.h>
+	<stdlib.h>
+	"entidad 1.h"
+	<string.h>
+
+1506647457 c:\users\alumno\desktop\parcial\entidad 1\entidad 1.h
+
+1506641771 source:c:\users\alumno\desktop\parcial\entidad 1\entidad 2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entidad 2.h"
+	"validacion.h"
+
+1506638187 c:\users\alumno\desktop\parcial\entidad 1\entidad 2.h
+
+1506641464 source:c:\users\alumno\desktop\parcial\entidad 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entidad 1.h"
+	"entidad 2.h"
+	"validacion.h"
+
+1506641385 source:c:\users\alumno\desktop\parcial\entidad 1\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+
+1506644861 c:\users\alumno\desktop\parcial\entidad 1\validacion.h
+
+1507090700 source:c:\users\gonza\desktop\clase_programacion\parcial\entidad 1\entidad 1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entidad 1.h"
+	"validacion.h"
+
+1507078440 c:\users\gonza\desktop\clase_programacion\parcial\entidad 1\entidad 1.h
+
+1507078493 c:\users\gonza\desktop\clase_programacion\parcial\entidad 1\validacion.h
+
+1507079446 source:c:\users\gonza\desktop\clase_programacion\parcial\entidad 1\entidad 2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entidad 2.h"
+	"validacion.h"
+
+1507079464 c:\users\gonza\desktop\clase_programacion\parcial\entidad 1\entidad 2.h
+
+1507072199 source:c:\users\gonza\desktop\clase_programacion\parcial\entidad 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entidad 1.h"
+	"entidad 2.h"
+	"validacion.h"
+
+1507078502 source:c:\users\gonza\desktop\clase_programacion\parcial\entidad 1\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+
+1507090684 source:c:\users\gonza\desktop\clase_programacion\parcial\entidad 1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"entidad 1.h"
+	"entidad 2.h"
+	"informes.h"
+
+1507090679 c:\users\gonza\desktop\clase_programacion\parcial\entidad 1\informes.h
+
