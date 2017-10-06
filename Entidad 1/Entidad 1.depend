@@ -73,3 +73,47 @@
 
 1507090679 c:\users\gonza\desktop\clase_programacion\parcial\entidad 1\informes.h
 
+1507248163 source:d:\1erparcial\entidad 1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entidad 1.h"
+	"entidad 2.h"
+	"informes.h"
+
+1507249503 d:\1erparcial\entidad 1\entidad 1.h
+
+1507245661 d:\1erparcial\entidad 1\entidad 2.h
+
+1507247981 d:\1erparcial\entidad 1\informes.h
+
+1507249577 source:d:\1erparcial\entidad 1\entidad 1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entidad 1.h"
+	"validacion.h"
+
+1507078494 d:\1erparcial\entidad 1\validacion.h
+
+1507245580 source:d:\1erparcial\entidad 1\entidad 2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entidad 2.h"
+	"validacion.h"
+
+1507242463 source:d:\1erparcial\entidad 1\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+
+1507249952 source:d:\1erparcial\entidad 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entidad 1.h"
+	"entidad 2.h"
+	"validacion.h"
+	"informes.h"
+

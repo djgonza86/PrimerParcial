@@ -224,7 +224,7 @@ int val_validarDesc(char* buffer)
     int retorno = 0;
     while(buffer[i] != '\0')
     {
-        if((buffer[i] < 'a' || buffer[i] > 'z' ) && buffer[i] != 32 && (buffer[i] < 'A' || buffer[i] > 'Z' ))
+        if((buffer[i] < 'a' || buffer[i] > 'z' ) && buffer[i] != 32 && (buffer[i] < 'A' || buffer[i] > 'Z' ) && (buffer[i] < '0' || buffer[i] > '9' ))
         {
             retorno = -1;
             break;
