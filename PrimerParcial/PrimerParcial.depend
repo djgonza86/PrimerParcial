@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1507779848 source:c:\users\gonza\desktop\clase_programacion\esqueleto parcial\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantalla.h"
+	"publicidad.h"
+	"validar.h"
+	"informes.h"
+
+1507776947 c:\users\gonza\desktop\clase_programacion\esqueleto parcial\primerparcial\pantalla.h
+
+1507777298 c:\users\gonza\desktop\clase_programacion\esqueleto parcial\primerparcial\publicidad.h
+
+1507776552 c:\users\gonza\desktop\clase_programacion\esqueleto parcial\primerparcial\validar.h
+
+1507778358 source:c:\users\gonza\desktop\clase_programacion\esqueleto parcial\primerparcial\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantalla.h"
+	"publicidad.h"
+	"validar.h"
+
+1507777144 source:c:\users\gonza\desktop\clase_programacion\esqueleto parcial\primerparcial\publicidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantalla.h"
+	"publicidad.h"
+	"validar.h"
+
+1507776543 source:c:\users\gonza\desktop\clase_programacion\esqueleto parcial\primerparcial\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1507780291 source:c:\users\gonza\desktop\clase_programacion\esqueleto parcial\primerparcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantalla.h"
+	"publicidad.h"
+	"informes.h"
+	"validar.h"
+
+1507779436 c:\users\gonza\desktop\clase_programacion\esqueleto parcial\primerparcial\informes.h
+

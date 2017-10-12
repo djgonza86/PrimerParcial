@@ -4,9 +4,9 @@ typedef struct
 {
     int id;
     unsigned int flagEstadoOcupado;
-    char nombreLcd[50];
-    char direccionLcd [50];
-    float precioLcd ;
+    char nombre[50];
+    char direccion [50];
+    float precio ;
 } sPantallaLcd;
 
 #endif // ENTIDAD_1_H_INCLUDED
